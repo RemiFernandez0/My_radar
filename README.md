@@ -36,7 +36,8 @@ of the greatest side of the window in pixel).
 Entities are separated by a ‘\n’.
 The pieces of information are separated by tabs or spaces.
 
-∼/Rem> cat scripts/example.rdr
+∼/Rem> cat scripts/example.rdr :
+
 A 815 321 1484 166 5 0
 A 1589 836 811 936 2 0
 A 202 894 103 34 3 0
